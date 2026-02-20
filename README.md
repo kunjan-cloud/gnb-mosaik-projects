@@ -1,5 +1,5 @@
-# gnb-mosaik-projects
-# GNB Mosaik – Academic Projects Portfolio
+# IT-projects
+# Academic Projects Portfolio
 
 ## About
 This repository contains academic projects completed as part of my Computer Systems Technician and Cloud-related coursework.
@@ -67,4 +67,4 @@ CSP450-Azure-Network/CSP450_Final_Report.pdf
 ## Notes
 - All projects listed are academic and completed as part of coursework.
 - These projects are shared for evaluation and learning purposes.
-- This repository was created in support of my application to the **GNB Mosaik Program**.
+  
